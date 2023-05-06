@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 '''
 This script generates a .tgz archive from the contents of web_static folder
 '''
