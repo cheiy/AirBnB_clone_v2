@@ -13,4 +13,4 @@ def hello_hbnb():
     '''
     Function returns the text
     '''
-    return 'Hello, HBNB!'
+    return 'Hello HBNB!'
