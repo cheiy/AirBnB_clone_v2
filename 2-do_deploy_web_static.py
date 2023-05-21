@@ -9,7 +9,7 @@ import datetime
 
 
 env.user = 'ubuntu'
-env.hosts = ['web-01.chege.tech', 'web-02.chege.tech']
+env.hosts = ['35.153.93.173', 'web-01.chege.tech']
 
 
 def do_pack():
