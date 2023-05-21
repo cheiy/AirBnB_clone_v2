@@ -31,7 +31,7 @@ def c(text):
     Function displays the text passed in URL
     '''
     text = text.replace("_", " ")
-    return 'C is %s' % text
+    return 'C %s' % text
 
 
 if __name__ == "__main__":
