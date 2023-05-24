@@ -68,4 +68,4 @@ class FileStorage:
         """ Method calls the reload() method for deserializing the JSON
         file to objects
         """
-        reload()
+    reload()
